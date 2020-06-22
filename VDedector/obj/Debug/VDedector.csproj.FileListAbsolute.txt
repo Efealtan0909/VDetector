@@ -1,0 +1,7 @@
+C:\Users\Yamac\source\repos\VDedector\VDedector\bin\Debug\VDedector.exe.config
+C:\Users\Yamac\source\repos\VDedector\VDedector\bin\Debug\VDedector.exe
+C:\Users\Yamac\source\repos\VDedector\VDedector\bin\Debug\VDedector.pdb
+C:\Users\Yamac\source\repos\VDedector\VDedector\obj\Debug\VDedector.csprojAssemblyReference.cache
+C:\Users\Yamac\source\repos\VDedector\VDedector\obj\Debug\VDedector.csproj.CoreCompileInputs.cache
+C:\Users\Yamac\source\repos\VDedector\VDedector\obj\Debug\VDedector.exe
+C:\Users\Yamac\source\repos\VDedector\VDedector\obj\Debug\VDedector.pdb
